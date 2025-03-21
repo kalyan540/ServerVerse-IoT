@@ -59,4 +59,4 @@ The server can be configured through environment variables in the `.env` file:
 
 ## License
 
-MIT License
+MIT License 
