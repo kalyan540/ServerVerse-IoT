@@ -1,0 +1,7 @@
+paho-mqtt==1.6.1
+motor==3.3.2
+python-dotenv==1.0.1
+cryptography==42.0.2
+pydantic==2.6.1
+redis==5.0.1
+aioredis==2.0.1 
